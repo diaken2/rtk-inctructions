@@ -3,7 +3,7 @@
 ## Полное пошаговое руководство
 
 ### 1. Вход в систему
-1. Откройте адрес: https://rtk-telecom-admin.vercel.app/
+1. Откройте адрес: https://rtk-client-nojm.vercel.app/admin-panel
 2. Введите логин: `admin`
 3. Введите пароль: `rtk123`
 4. Нажмите кнопку "Войти"
